@@ -18,8 +18,8 @@ You **HAVE TO** create a `.author.json` file with the following content:
 ```sh
 $> cat .author.json
 {
-  "firstname": "Majdi",
-  "lastname": "Toumi",
+  "firstname": "firstname",
+  "lastname": "lastname",
 }
 ```
 
